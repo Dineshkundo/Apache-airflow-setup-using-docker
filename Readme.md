@@ -104,26 +104,7 @@ airflow dags test testdag
 
 ---
 
-## **🔍 Step 4: Quality & Security Checks**
-Run the **100% code quality check** script to ensure everything is working correctly:
-
-```bash
-wget https://raw.githubusercontent.com/your-repo/airflow_quality_check.sh
-chmod +x airflow_quality_check.sh
-./airflow_quality_check.sh
-```
-
-This script verifies:  
-✅ System dependencies  
-✅ Python & virtual environment  
-✅ Airflow installation & configurations  
-✅ DAG validation  
-✅ Code linting (PEP8)  
-✅ Security scanning (Bandit)  
-
----
-
-## **🚀 Step 5: Stop & Restart Airflow**
+## **🚀 Step 4: Stop & Restart Airflow**
 To **stop Airflow**, run:  
 ```bash
 docker stop airflow-container
