@@ -130,3 +130,6 @@ docker exec -it airflow-container /bin/bash
 You now have a **fully working Apache Airflow setup** with **DAG execution, Web UI, and quality checks** running in **Docker**! 🚀🔥  
 
 If you found this useful, give a ⭐ to the repo! ✅
+##use ful links
+# https://medium.com/@fninsiima/de-mini-series-part-two-57770ff7cdf9
+# 
